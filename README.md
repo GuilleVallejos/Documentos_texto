@@ -1,6 +1,8 @@
 # Documentos_texto
 
-Hacemos nuestra primera modificación.
+Hacemos nuestra primera modificaciÃ³n.
 
-Hacemos nuestra segunda modificación.
+Hacemos nuestra segunda modificaciÃ³n.
+
+NO SE COMO HACERLO
 
